@@ -11,7 +11,7 @@ public class App {
         BookDao bookDao = (BookDao) ctx.getBean("bookDao");
         System.out.println(bookDao);
         //按类型获取bean
-        BookService bookService = (BookService) ctx.getBean("bookService",BookService.class);
+        BookService bookService = ctx.getBean(BookService.class);
         System.out.println(bookService);
     }
 }

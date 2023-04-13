@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.12">
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation_bean/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_bean_manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_bean_manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_spring_junit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_01_quickstart/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_03_bean_instance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_03_bean_instance/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_05_di_set/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_05_di_set/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_06_di_constructor/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_07_di_autoware/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_08_di_collection/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +42,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2OJitLPs41kIcWTcrmIFfZ1gtII" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -96,7 +79,7 @@
       <recent name="D:\development\program\SSM_Programs\spring_01_quickstart\src\main\java\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.AppForAnnotation">
+  <component name="RunManager" selected="应用程序.App (2)">
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
       <module name="spring_11_annotation_bean" />
@@ -146,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.AppForAnnotation" />
         <item itemvalue="应用程序.App (2)" />
+        <item itemvalue="应用程序.AppForAnnotation" />
         <item itemvalue="应用程序.App" />
         <item itemvalue="应用程序.App2" />
         <item itemvalue="应用程序.App (4)" />
@@ -166,7 +149,7 @@
       <workItem from="1681286149000" duration="919000" />
       <workItem from="1681297500174" duration="8202000" />
       <workItem from="1681373579837" duration="13999000" />
-      <workItem from="1681394553671" duration="998000" />
+      <workItem from="1681394553671" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="2023.4.12">
       <created>1681305471104</created>
@@ -175,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681305471104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023.4.13">
+      <created>1681395813796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681395813796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.4.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.4.12" />
+    <MESSAGE value="2023.4.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.4.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
