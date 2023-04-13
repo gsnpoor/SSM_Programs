@@ -20,6 +20,11 @@
             <version>6.0.6</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>net.officefloor.plugin</groupId>
+            <artifactId>officeplugin_spring</artifactId>
+            <version>2.7.0</version>
+        </dependency>
     </dependencies>
 
 </project>
