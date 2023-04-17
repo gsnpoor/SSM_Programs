@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.13" />
+    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.13">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,25 +73,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "D:/development/maven/repository/com/alibaba/druid/1.2.16/druid-1.2.16.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.16210938",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "spring.configuration.checksum": "1b3ea22af28f26255887d2b6b6860e50",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/development/maven/repository/com/alibaba/druid/1.2.16/druid-1.2.16.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.16210938&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1b3ea22af28f26255887d2b6b6860e50&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\development\program\SSM_Programs" />
@@ -79,10 +99,10 @@
       <recent name="D:\development\program\SSM_Programs\spring_01_quickstart\src\main\java\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.App (2)">
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
-      <module name="spring_11_annotation_bean" />
+      <module name="spring_17_aop_demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.itheima.*" />
@@ -93,9 +113,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="spring_15_spring_mybatis" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
+      <module name="spring_11_annotation_bean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.App (1)" />
         <item itemvalue="应用程序.App (2)" />
         <item itemvalue="应用程序.AppForAnnotation" />
         <item itemvalue="应用程序.App" />
         <item itemvalue="应用程序.App2" />
-        <item itemvalue="应用程序.App (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +175,9 @@
       <workItem from="1681286149000" duration="919000" />
       <workItem from="1681297500174" duration="8202000" />
       <workItem from="1681373579837" duration="13999000" />
-      <workItem from="1681394553671" duration="1321000" />
+      <workItem from="1681394553671" duration="1498000" />
+      <workItem from="1681621792917" duration="29000" />
+      <workItem from="1681710721551" duration="1286000" />
     </task>
     <task id="LOCAL-00001" summary="2023.4.12">
       <created>1681305471104</created>
@@ -165,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681395813796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023.4.13">
+      <created>1681396011769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681396011769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
