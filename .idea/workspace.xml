@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.13">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.117">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +162,7 @@
       <workItem from="1681373579837" duration="13999000" />
       <workItem from="1681394553671" duration="1498000" />
       <workItem from="1681621792917" duration="29000" />
-      <workItem from="1681710721551" duration="1286000" />
+      <workItem from="1681710721551" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="2023.4.12">
       <created>1681305471104</created>
@@ -200,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681396011769</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2023.4.117">
+      <created>1681712306497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681712306497</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.4.12" />
     <MESSAGE value="2023.4.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.4.13" />
+    <MESSAGE value="2023.4.117" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.4.117" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
