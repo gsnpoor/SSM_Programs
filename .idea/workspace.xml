@@ -6,9 +6,69 @@
   <component name="ChangeListManager">
     <list default="true" id="09616b01-9efc-440e-8a33-afca69a4fe15" name="变更" comment="2023.4.117">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/target/classes/com/itheima/aop/MyAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/aop/MyAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/itheima/aop/MyAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/src/main/java/com/itheima/aop/ProjectAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/src/main/java/com/itheima/aop/ProjectAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/aop/ProjectAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/aop/ProjectAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/JdbcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/JdbcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/MybatisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/MybatisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/com/itheima/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/test-classes/com/itheima/service/AccountServiceTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_21_case_interface_run_speed/target/test-classes/com/itheima/service/AccountServiceTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/src/main/java/com/itheima/aop/MyAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/src/main/java/com/itheima/aop/MyAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/src/main/java/com/itheima/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/aop/MyAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/aop/MyAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_22_aop_advice_data/target/classes/com/itheima/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/src/main/java/com/itheima/aop/DataAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/src/main/java/com/itheima/aop/DataAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/aop/DataAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/aop/DataAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/dao/ResourcesDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/dao/ResourcesDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/dao/impl/ResourcesDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/dao/impl/ResourcesDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/service/ResourcesService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/service/ResourcesService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/service/impl/ResourcesServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_23_case_handle_password/target/classes/com/itheima/service/impl/ResourcesServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/JdbcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/JdbcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/MybatisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/MybatisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/com/itheima/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_24_case_transfer/target/test-classes/com/itheima/service/AccountServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_24_case_transfer/target/test-classes/com/itheima/service/AccountServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/java/com/itheima/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/java/com/itheima/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/java/com/itheima/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/JdbcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/JdbcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/MybatisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/MybatisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/dao/LogDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/dao/LogDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/LogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/LogService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/impl/LogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/com/itheima/service/impl/LogServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_25_case_transfer_log/target/test-classes/com/itheima/service/AccountServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_25_case_transfer_log/target/test-classes/com/itheima/service/AccountServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +89,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../jdk19.0.2/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,25 +121,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/development/maven/repository/com/alibaba/druid/1.2.16/druid-1.2.16.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.16210938&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;1b3ea22af28f26255887d2b6b6860e50&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/development/maven/repository/com/alibaba/druid/1.2.16/druid-1.2.16.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.16210938",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "1b3ea22af28f26255887d2b6b6860e50",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\development\program\SSM_Programs" />
@@ -84,67 +152,74 @@
       <recent name="D:\development\program\SSM_Programs\spring_01_quickstart\src\main\java\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.App (1)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
-      <module name="spring_17_aop_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
-      <module name="spring_11_annotation_bean" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="JUnit.AccountServiceTest (1)">
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="spring_23_case_handle_password" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
-      <module name="spring_14_annotation_third_bean_manager" />
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="spring_22_aop_advice_data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_25_case_transfer_log" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.*" />
+          <option name="PATTERN" value="com.itheima.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App2" />
-      <module name="spring_15_spring_mybatis" />
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_24_case_transfer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppForAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppForAnnotation" />
-      <module name="spring_11_annotation_bean" />
+    <configuration name="AccountServiceTestCase.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_21_case_interface_run_speed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.AccountServiceTestCase" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.App (1)" />
-        <item itemvalue="应用程序.App (2)" />
-        <item itemvalue="应用程序.AppForAnnotation" />
+        <item itemvalue="JUnit.AccountServiceTest (1)" />
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="应用程序.App (3)" />
         <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.App2" />
+        <item itemvalue="JUnit.AccountServiceTestCase.testFindById" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +237,7 @@
       <workItem from="1681373579837" duration="13999000" />
       <workItem from="1681394553671" duration="1498000" />
       <workItem from="1681621792917" duration="29000" />
-      <workItem from="1681710721551" duration="2809000" />
+      <workItem from="1681710721551" duration="10004000" />
     </task>
     <task id="LOCAL-00001" summary="2023.4.12">
       <created>1681305471104</created>
@@ -192,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681712306497</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2023.4.117">
+      <created>1681713873669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681713873669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

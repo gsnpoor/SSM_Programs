@@ -23,8 +23,9 @@ public class ProjectAdvice {
         String methodName = signature.getName();
 
         long start = System.currentTimeMillis();
+
         for (int i = 0; i < 10000; i++) {
-           pjp.proceed();
+            pjp.proceed();
         }
         long end = System.currentTimeMillis();
         System.out.println("万次执行："+ className+"."+methodName+"---->" +(end-start) + "ms");

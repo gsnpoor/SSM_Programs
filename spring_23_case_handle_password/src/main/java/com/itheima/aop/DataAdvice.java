@@ -18,6 +18,7 @@ public class DataAdvice {
         for (int i = 0; i < args.length; i++) {
             //判断参数是不是字符串
             if(args[i].getClass().equals(String.class)){
+                //trim() 删除字符串头尾的空字符
                 args[i] = args[i].toString().trim();
             }
         }

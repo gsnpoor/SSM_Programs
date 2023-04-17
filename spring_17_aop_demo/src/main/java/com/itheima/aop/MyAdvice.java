@@ -14,6 +14,12 @@ public class MyAdvice {
     @Pointcut("execution(* com.itheima.dao.BookDao.*d*(..))")
     private void pt(){}
 
+    /*前置通知
+    @Before("pt()")*/
+    /*后置通知
+    @After("pt()")*/
+
+    //环绕通知
     @Around("pt()")
     public Object around(ProceedingJoinPoint pjp) throws Throwable {
         System.out.println("------------------------------");
